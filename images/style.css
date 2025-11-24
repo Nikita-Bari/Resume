@@ -1,0 +1,29 @@
+    #res{
+
+        height:1200px;
+        width: 900px;
+        border: solid 5px gray;
+        border: solid black 3px;
+        box-shadow: 50px;
+        padding-left: 50px;
+        padding-bottom: 100px;
+    }
+   body {
+        justify-items: center;
+        padding-bottom: 200px;
+        
+    }
+   #img{
+    
+    float: right;
+    padding-top: 10px;
+    padding-right: 20px;
+    
+
+    }
+
+    table,th,td{
+        border: solid black 1px;
+        width: 800px;
+
+    }
